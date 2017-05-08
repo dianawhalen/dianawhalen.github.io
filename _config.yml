@@ -11,6 +11,27 @@ github_username:  dianawhalen
 learn_profile: dianawhalen
 email_username: whalendianaj@gmail.com
 
+# --- Footer options --- #
+author:
+  name: Diana Whalen
+  calendly: dianawhalen
+  twitter: dianajwhalen
+  email: "whalendianaj@gmail.com"
+  github: dianawhalen
+  google-plus: 105082918413549678451
+  linkedin: dianawhalen
+  stackoverflow: "7551764/diana-whalen"
+
+# Select which links to show in the footer
+footer-links-active:
+  calendly: true
+  email: true
+  twitter: true
+  google-plus: true
+  github: true
+  linkedin: true
+  stackoverflow: true
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
