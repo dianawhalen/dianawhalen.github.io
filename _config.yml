@@ -24,7 +24,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  calendly: true
+  calendly: false
   email: true
   twitter: true
   google-plus: true
