@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  Why software development?
-date:   2017-05-22 18:52:52 +0000
+title:      "Why software development?"
+date:       2017-05-22 14:52:53 -0400
+permalink:  why_software_development
 ---
 
 
@@ -9,7 +10,7 @@ I'm of the mind that there are as many reasons one decides to learn software dev
 
 The appeal for me is that information and technology touches everything, more now than ever before. I can explore all of my passions, hobbies, and creative talents... all by way of code. I can create change in the world, and reach out across all barriers... because of code. It is the most universal language there is, and language opens all the doors, to all the kingdoms.
 
-That is why I have chosen to pursue software development. 
+That is why I have chosen to pursue software development. My specific interests are with Blockchain Technologies, Cybersecurity, and Gaming Development.
 
 The seed was planted long ago, all the way back to childhood. I remember clearly my first exposure to a computer... watching graphics appear on the screen, and getting to interact with what seemed like a smart being, living inside this box. I was a kid of course, so this was pure magic to me!
 
