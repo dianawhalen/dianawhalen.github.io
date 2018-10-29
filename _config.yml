@@ -1,36 +1,14 @@
 # Site settings
+author: Diana Whalen
 title: Adventures in Code
 header-img: img/home-bg.png
 email: whalendianaj@gmail.com
-copyright_name: dianawhalen
+copyright_name: Diana Whalen
 description: > # this means to ignore newlines until "baseurl:"
   My journey to becoming a software developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dianawhalen
-learn_profile: dianawhalen
-email_username: whalendianaj@gmail.com
-
-# --- Footer options --- #
-author:
-  name: Diana Whalen
-  calendly: dianawhalen
-  twitter: dianajwhalen
-  email: "whalendianaj@gmail.com"
-  github: dianawhalen
-  google-plus: 105082918413549678451
-  linkedin: dianawhalen
-  stackoverflow: "7551764/diana-whalen"
-
-# Select which links to show in the footer
-footer-links-active:
-  calendly: false
-  email: true
-  twitter: true
-  google-plus: true
-  github: true
-  linkedin: true
-  stackoverflow: true
 
 # Build settings
 markdown: kramdown
